@@ -10,6 +10,14 @@ __pycache__/
 *.tar.gz
 *.tsv
 */data/
+*/*/data/
+*/*/data/*
+*/data/*
+*.tsv
+# dont commit data extensions
+*.xlsx
+
+
 # C extensions
 *.so
 
